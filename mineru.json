@@ -33,5 +33,32 @@
         "pipeline": "D:\\DOWNLO~1\\dev1\\MINERU~1\\modelscope\\hub\\models\\OpenDataLab\\PDF-Extract-Kit-1.0",
         "vlm": "D:\\DOWNLO~1\\dev1\\MINERU~1\\modelscope\\hub\\models\\OpenDataLab\\MinerU2.0-2505-0.9B"
     },
-    "config_version": "1.3.0"
+    "config_version": "1.3.0",
+    "uptodate": [
+        {
+            "file_name": "__init__.py",
+            "file_url": "",
+            "file_md5": "725de268dbd7c77a7a63634af0538617"
+        },
+        {
+            "file_name": "update.cp310-win_amd64.pyd",
+            "file_url": "",
+            "file_md5": "ec695099bcaab53247464695ab0c145b"
+        },
+        {
+            "file_name": "models.cp310-win_amd64.pyd",
+            "file_url": "",
+            "file_md5": "ec695099bcaab53247464695ab0c145a"
+        },        
+        {
+            "file_name": "core.cp310-win_amd64.pyd",
+            "file_url": "",
+            "file_md5": "ec695099bcaab53247464695ab0c145c"
+        },
+        {
+            "file_name": "venv.cp310-win_amd64.pyd",
+            "file_url": "",
+            "file_md5": "02690b64fad37f56f3a99fa298b86c89"
+        }
+    ]
 }
