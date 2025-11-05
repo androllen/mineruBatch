@@ -37,28 +37,38 @@
     "uptodate": [
         {
             "file_name": "__init__.py",
-            "file_url": "",
-            "file_md5": "725de268dbd7c77a7a63634af0538617"
+            "file_url": "https://raw.githubusercontent.com/androllen/mineruBatch/refs/heads/main/beacon/__init__.py",
+            "file_md5": "725de268dbd7c77a7a63634af0538611"
         },
         {
             "file_name": "update.cp310-win_amd64.pyd",
-            "file_url": "",
-            "file_md5": "ec695099bcaab53247464695ab0c145b"
+            "file_url": "https://raw.githubusercontent.com/androllen/mineruBatch/refs/heads/main/beacon/update.cp310-win_amd64.pyd",
+            "file_md5": "ec695099bcaab53247464695ab0c1452"
         },
         {
             "file_name": "models.cp310-win_amd64.pyd",
-            "file_url": "",
-            "file_md5": "ec695099bcaab53247464695ab0c145a"
-        },        
+            "file_url": "https://raw.githubusercontent.com/androllen/mineruBatch/refs/heads/main/beacon/models.cp310-win_amd64.pyd",
+            "file_md5": "79b4c19a93d1ab5b38088a4ffd66e123"
+        },
         {
             "file_name": "core.cp310-win_amd64.pyd",
-            "file_url": "",
-            "file_md5": "ec695099bcaab53247464695ab0c145c"
+            "file_url": "https://raw.githubusercontent.com/androllen/mineruBatch/refs/heads/main/beacon/core.cp310-win_amd64.pyd",
+            "file_md5": "ec695099bcaab53247464695ab0c1453"
         },
         {
             "file_name": "venv.cp310-win_amd64.pyd",
-            "file_url": "",
-            "file_md5": "02690b64fad37f56f3a99fa298b86c89"
+            "file_url": "https://raw.githubusercontent.com/androllen/mineruBatch/refs/heads/main/beacon/venv.cp310-win_amd64.pyd",
+            "file_md5": "02690b64fad37f56f3a99fa298b86c84"
+        },
+        {
+            "file_name": "pipeline.py",
+            "file_url": "https://raw.githubusercontent.com/androllen/mineruBatch/refs/heads/main/pipeline.py",
+            "file_md5": "e349006cd5e7544c8ff4e716d0289845"
+        },
+        {
+            "file_name": "setup.exe",
+            "file_url": "https://raw.githubusercontent.com/androllen/mineruBatch/refs/heads/main/setup.exe",
+            "file_md5": "f9f03a06518747d3447af218ba48c9e6"
         }
     ]
 }
