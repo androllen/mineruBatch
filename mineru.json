@@ -1,0 +1,54 @@
+{
+    "uptodate": [
+        {
+            "file_name": "common.cp310-win_amd64.pyd",
+            "file_md5": "5307a3f5d853d66cccba87ee81bd8e79",
+            "file_url": "https://cdn.jsdelivr.net/gh/androllen/mineruBatch@main/beacon/common.cp310-win_amd64.pyd"
+        },
+        {
+            "file_name": "core.cp310-win_amd64.pyd",
+            "file_md5": "53dda5fc86850dbbd213c35c9050eae7",
+            "file_url": "https://cdn.jsdelivr.net/gh/androllen/mineruBatch@main/beacon/core.cp310-win_amd64.pyd"
+        },
+        {
+            "file_name": "download.cp310-win_amd64.pyd",
+            "file_md5": "0c625dacb40db14f79089278779aa5d6",
+            "file_url": "https://cdn.jsdelivr.net/gh/androllen/mineruBatch@main/beacon/download.cp310-win_amd64.pyd"
+        },
+        {
+            "file_name": "logger.cp310-win_amd64.pyd",
+            "file_md5": "3e0a10166fb575fe25a1e0ca26a5b865",
+            "file_url": "https://cdn.jsdelivr.net/gh/androllen/mineruBatch@main/beacon/logger.cp310-win_amd64.pyd"
+        },
+        {
+            "file_name": "toolkit.cp310-win_amd64.pyd",
+            "file_md5": "9cd5a5378b66609d1df4e755e395ad5c",
+            "file_url": "https://cdn.jsdelivr.net/gh/androllen/mineruBatch@main/beacon/toolkit.cp310-win_amd64.pyd"
+        },
+        {
+            "file_name": "setup.exe",
+            "file_md5": "4249a6ce349898cfb454547f783585b0",
+            "file_url": "https://gh-proxy.org/https://github.com/androllen/mineruBatch/blob/main/setup.exe"
+        },
+        {
+            "file_name": "updater.exe",
+            "file_md5": "d6a49a0b6ba1dd3d9709565b634408bb",
+            "file_url": "https://gh-proxy.org/https://github.com/androllen/mineruBatch/blob/main/updater.exe"
+        },
+        {
+            "file_name": "aria2c.exe",
+            "file_md5": "8c71b86bf407c05baf11e8d296b9c8b8",
+            "file_url": "https://gh-proxy.org/https://github.com/androllen/mineruBatch/blob/main/download/aria2c.exe"
+        },
+        {
+            "file_name": "mergemd.exe",
+            "file_md5": "7f3e06268f06dcff96cfba4eb75074ea",
+            "file_url": "https://gh-proxy.org/https://github.com/androllen/mineruBatch/blob/main/download/mergemd.exe"
+        },
+        {
+            "file_name": "pdfsplitter.exe",
+            "file_md5": "352106ad092a79a9b8a82fe5fc458875",
+            "file_url": "https://gh-proxy.org/https://github.com/androllen/mineruBatch/blob/main/download/pdfsplitter.exe"
+        }
+    ]
+}
