@@ -1,0 +1,64 @@
+{
+    "uptodate": [
+        {
+            "file_name": "common.cp310-win_amd64.pyd",
+            "file_md5": "915a382ed3e7f1388b05453cd0fa9086",
+            "file_url": "https://raw.githubusercontent.com/androllen/mineruBatch/main/beacon/common.cp310-win_amd64.pyd"
+        },
+        {
+            "file_name": "core.cp310-win_amd64.pyd",
+            "file_md5": "c7b1a37a86cb0118eb44ad0ac73f1a56",
+            "file_url": "https://raw.githubusercontent.com/androllen/mineruBatch/main/beacon/core.cp310-win_amd64.pyd"
+        },
+        {
+            "file_name": "download.cp310-win_amd64.pyd",
+            "file_md5": "28c1374b3a7c078f880d943b1a766a7b",
+            "file_url": "https://raw.githubusercontent.com/androllen/mineruBatch/main/beacon/download.cp310-win_amd64.pyd"
+        },
+        {
+            "file_name": "logger.cp310-win_amd64.pyd",
+            "file_md5": "9d64af65356990a558529532d1b3465e",
+            "file_url": "https://raw.githubusercontent.com/androllen/mineruBatch/main/beacon/logger.cp310-win_amd64.pyd"
+        },
+        {
+            "file_name": "toolkit.cp310-win_amd64.pyd",
+            "file_md5": "83b52e3aaade1e46412fa46cb5f06a3f",
+            "file_url": "https://raw.githubusercontent.com/androllen/mineruBatch/main/beacon/toolkit.cp310-win_amd64.pyd"
+        },
+        {
+            "file_name": "upgrade.cp310-win_amd64.pyd",
+            "file_md5": "3937c16648662fd23462bf04923814bd",
+            "file_url": "https://raw.githubusercontent.com/androllen/mineruBatch/main/beacon/upgrade.cp310-win_amd64.pyd"
+        },
+        {
+            "file_name": "installer.exe",
+            "file_md5": "9db081813c6cb9ad403befdc4d7b58ef",
+            "file_url": "https://raw.githubusercontent.com/androllen/mineruBatch/main/installer.exe"
+        },
+        {
+            "file_name": "mergemd.exe",
+            "file_md5": "12b0f7b6a14a142b07e8414ad369347d",
+            "file_url": "https://raw.githubusercontent.com/androllen/mineruBatch/main/download/mergemd.exe"
+        },
+        {
+            "file_name": "pdfsplit_cli.exe",
+            "file_md5": "cd1d0d14c0d2e9acda32539a7944b9d7",
+            "file_url": "https://raw.githubusercontent.com/androllen/mineruBatch/main/download/pdfsplit_cli.exe"
+        },
+        {
+            "file_name": "pdfsplitter.exe",
+            "file_md5": "faf947b007e7a3348fb03f34804dc7e3",
+            "file_url": "https://raw.githubusercontent.com/androllen/mineruBatch/main/download/pdfsplitter.exe"
+        },
+        {
+            "file_name": "setup.exe",
+            "file_md5": "c894280fc0d3782ebac59e9f3ebe0103",
+            "file_url": "https://raw.githubusercontent.com/androllen/mineruBatch/main/setup.exe"
+        },
+        {
+            "file_name": "updater.exe",
+            "file_md5": "2088d86f01e7597cd0d817de41d85692",
+            "file_url": "https://raw.githubusercontent.com/androllen/mineruBatch/main/updater.exe"
+        }
+    ]
+}
